@@ -1,0 +1,27 @@
+[
+  {
+    "user": {
+      "type": "other",
+      "name": "Console"
+    },
+    "time": 1759962359703,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/RNTbRvRUmb"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "elyxdev",
+      "uniqueId": "cabd2470-5f39-3704-b0d2-16f4468f9346"
+    },
+    "time": 1759961506898,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/GkTSQiJGFc"
+    }
+  }
+]
